@@ -27088,7 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Debaditya Som",
-    title: "Web Designer & Content Creator",
+    title: "DevOps Enthusiast & Open-Source Contributor",
     email: "debadityasom04@gmail.com",
     gitHub: "debaditya-som",
     instagram: "",
@@ -27198,7 +27198,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am seek opportunities to apply skills to contribute to dynamic open-source projects and enhance my knowledge in the field.";
+ */ const detailOrQuote = "I seek opportunities to apply skills to contribute to dynamic open-source projects and enhance my knowledge in the field.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
